@@ -702,7 +702,7 @@ footer a {
         }
     .home-container .home-img img {
         width: 65%;
-        transform: translate(0px,165px);
+        transform: translate(0px,-165px);
     }
 }
  
