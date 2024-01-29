@@ -686,7 +686,7 @@ footer a {
 
     .home-container .home-img img{
         width: 65%;
-        transform: translate(0px,-150px);
+        transform: translate(0px,-50px);
     }
     .home .home-container .info{
         font-size: 0.8rem;
